@@ -1,13 +1,13 @@
 {
   "app": {
-    "versionCode": 5,
-    "versionName": "1.1.3",
-    "url": "https://github.com/kaliyoda42/LoRa-Chat-releases/releases/download/v1.1.3/app-release.apk"
+    "versionCode": 6,
+    "versionName": "1.1.4",
+    "url": "https://github.com/kaliyoda42/LoRa-Chat-releases/releases/download/v1.1.4/app-release.apk"
   },
   "firmware": {
-    "version": "1.1.3",
-    "heltec-v2": { "url": "https://github.com/kaliyoda42/LoRa-Chat-releases/releases/download/v1.1.3/firmware-heltec-v2.bin" },
-    "heltec-v3": { "url": "https://github.com/kaliyoda42/LoRa-Chat-releases/releases/download/v1.1.3/firmware-heltec-v3.bin" },
-    "ttgo-lora32": { "url": "https://github.com/kaliyoda42/LoRa-Chat-releases/releases/download/v1.1.3/firmware-ttgo-lora32.bin" }
+    "version": "1.1.4",
+    "heltec-v2": { "url": "https://github.com/kaliyoda42/LoRa-Chat-releases/releases/download/v1.1.4/firmware-heltec-v2.bin" },
+    "heltec-v3": { "url": "https://github.com/kaliyoda42/LoRa-Chat-releases/releases/download/v1.1.4/firmware-heltec-v3.bin" },
+    "ttgo-lora32": { "url": "https://github.com/kaliyoda42/LoRa-Chat-releases/releases/download/v1.1.4/firmware-ttgo-lora32.bin" }
   }
 }
